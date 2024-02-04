@@ -1,0 +1,31 @@
+{
+  "data": "tiles",
+  "version": 1,
+  "types": [
+    {
+      "id": 1,
+      "name": "forest",
+      "Description": "A forest where a variaty of plants, trees and animals thrive."
+    },
+    {
+      "id": 2,
+      "name": "mountain",
+      "Description": "Large natural rock formations rich in all kinds of minerals."
+    },
+    {
+      "id": 3,
+      "name": "plain",
+      "Description": "Open is all that springs to mind as you starer out over the fast green and yellow fields"
+    },
+    {
+      "id": 4,
+      "name": "water",
+      "Description": "Without a doubt, it's wet. A neccesity for live, which the fish agree with."
+    },
+    {
+      "id": 5,
+      "name": "Swamp",
+      "Description": "A place you'll definetly remember. often not in a good way."
+    }
+  ]
+}
